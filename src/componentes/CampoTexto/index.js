@@ -2,13 +2,16 @@ import './CampoTexto.css'
 
 const CampoTexto = (props) => {
 
-    const placeholderModificada = `${props.placeholder}...`
+    const placeholderModificada = `${props.placeholder}...` 
 
-    return(
+    return (
         <div className="campo-texto">
-            <label>{props.label}</label>
+            <label>
+                {props.label}
+            </label>
             <input placeholder={placeholderModificada}/>
         </div>
     )
 }
- export default CampoTexto
+
+export default CampoTexto
