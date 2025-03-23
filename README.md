@@ -5,4 +5,4 @@ Site criado utilizando as linguagens:
 > HTML, CSS e JAVASCRIPT
 
 Navegador utilizado como teste:
-Google Chrome Versão 123.0.6312.58
+> Google Chrome Versão 123.0.6312.58
